@@ -1,0 +1,21 @@
+skill_id,skill_name,skill_category
+1,Python,Technical
+2,SQL,Technical
+3,Excel,Analytics
+4,Power BI,Analytics
+5,Data Visualisation,Analytics
+6,Machine Learning,Technical
+7,REST APIs,Technical
+8,PostgreSQL,Technical
+9,Git,Technical
+10,Docker,Technical
+11,Project Management,Professional
+12,Communication,Professional
+13,Problem Solving,Professional
+14,AutoCAD,Engineering
+15,Circuit Design,Engineering
+16,Embedded Systems,Engineering
+17,Financial Analysis,Business
+18,Market Research,Business
+19,Cloud Fundamentals,Technical
+20,Technical Writing,Professional

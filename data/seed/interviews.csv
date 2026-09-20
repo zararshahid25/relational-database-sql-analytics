@@ -1,0 +1,269 @@
+interview_id,application_id,round_number,interview_type,interview_date,score,result
+1,2,1,Technical,2025-03-20,53.5,Fail
+2,3,1,Technical,2025-05-30,74.6,Pass
+3,4,1,Technical,2025-05-24,61.2,Fail
+4,7,1,Technical,2025-06-12,62.4,Fail
+5,8,1,Technical,2025-04-02,72.5,Pass
+6,12,1,Technical,2025-05-25,81.5,Pass
+7,22,1,Technical,2025-05-26,81.7,Pass
+8,22,2,HR and Culture,2025-06-02,67.1,Pass
+9,23,1,Technical,2025-05-21,60.7,Fail
+10,26,1,Technical,2025-06-06,64.5,Fail
+11,32,1,Technical,2025-05-13,76.8,Pass
+12,32,2,HR and Culture,2025-05-20,85.1,Pass
+13,36,1,Technical,2025-06-08,53.8,Fail
+14,37,1,Technical,2025-04-15,80.2,Pass
+15,39,1,Technical,2025-05-31,66.5,Fail
+16,42,1,Technical,2025-05-26,61.8,Pass
+17,42,2,HR and Culture,2025-06-02,78.5,Pass
+18,45,1,Technical,2025-04-15,85.8,Pass
+19,45,2,HR and Culture,2025-04-22,82.8,Pass
+20,53,1,Technical,2025-05-30,77.4,Pass
+21,54,1,Technical,2025-02-12,67.8,Pass
+22,54,2,HR and Culture,2025-02-19,62.4,Pass
+23,55,1,Technical,2025-02-14,70.1,Pass
+24,61,1,Technical,2025-05-13,56.9,Fail
+25,65,1,Technical,2025-02-15,57.5,Fail
+26,67,1,Technical,2025-02-14,87.0,Pass
+27,67,2,HR and Culture,2025-02-21,68.3,Pass
+28,73,1,Technical,2025-05-02,47.5,Fail
+29,76,1,Technical,2025-03-19,66.5,Pass
+30,76,2,HR and Culture,2025-03-26,85.5,Pass
+31,78,1,Technical,2025-05-05,59.6,Fail
+32,81,1,Technical,2025-02-06,70.5,Pass
+33,81,2,HR and Culture,2025-02-13,56.8,Pass
+34,82,1,Technical,2025-03-21,85.2,Pass
+35,82,2,HR and Culture,2025-03-28,67.1,Pass
+36,86,1,Technical,2025-02-17,84.8,Pass
+37,86,2,HR and Culture,2025-02-24,73.8,Pass
+38,91,1,Technical,2025-02-18,81.1,Pass
+39,91,2,HR and Culture,2025-02-25,70.8,Pass
+40,93,1,Technical,2025-03-08,64.5,Fail
+41,94,1,Technical,2025-02-16,39.6,Fail
+42,98,1,Technical,2025-06-12,53.1,Fail
+43,106,1,Technical,2025-05-28,83.5,Pass
+44,106,2,HR and Culture,2025-06-04,93.4,Pass
+45,107,1,Technical,2025-02-06,65.9,Fail
+46,109,1,Technical,2025-06-12,53.9,Fail
+47,110,1,Technical,2025-05-24,54.6,Fail
+48,112,1,Technical,2025-02-27,62.0,Fail
+49,113,1,Technical,2025-01-30,65.7,Pass
+50,113,2,HR and Culture,2025-02-06,88.7,Pass
+51,116,1,Technical,2025-02-17,81.7,Pass
+52,117,1,Technical,2025-06-02,55.8,Fail
+53,120,1,Technical,2025-05-25,38.2,Fail
+54,121,1,Technical,2025-05-24,70.0,Pass
+55,121,2,HR and Culture,2025-05-31,76.0,Pass
+56,123,1,Technical,2025-05-10,55.3,Fail
+57,125,1,Technical,2025-04-12,73.7,Pass
+58,126,1,Technical,2025-04-20,71.4,Pass
+59,128,1,Technical,2025-05-22,52.6,Fail
+60,130,1,Technical,2025-05-19,73.3,Pass
+61,131,1,Technical,2025-01-28,78.3,Pass
+62,132,1,Technical,2025-05-26,43.9,Fail
+63,137,1,Technical,2025-05-24,58.6,Fail
+64,141,1,Technical,2025-06-04,62.3,Fail
+65,145,1,Technical,2025-03-25,92.7,Pass
+66,145,2,HR and Culture,2025-04-01,62.1,Pass
+67,148,1,Technical,2025-04-14,74.8,Pass
+68,148,2,HR and Culture,2025-04-21,70.9,Pass
+69,151,1,Technical,2025-06-10,52.1,Fail
+70,152,1,Technical,2025-03-12,59.0,Fail
+71,153,1,Technical,2025-02-19,68.7,Fail
+72,161,1,Technical,2025-02-14,67.5,Fail
+73,163,1,Technical,2025-05-25,74.7,Pass
+74,164,1,Technical,2025-03-25,55.9,Fail
+75,165,1,Technical,2025-02-14,62.5,Fail
+76,167,1,Technical,2025-05-30,83.4,Pass
+77,167,2,HR and Culture,2025-06-06,93.0,Pass
+78,168,1,Technical,2025-05-17,51.8,Fail
+79,169,1,Technical,2025-03-26,78.2,Pass
+80,169,2,HR and Culture,2025-04-02,68.1,Pass
+81,176,1,Technical,2025-04-14,65.0,Fail
+82,177,1,Technical,2025-03-29,45.2,Fail
+83,178,1,Technical,2025-02-21,65.9,Pass
+84,178,2,HR and Culture,2025-02-28,78.3,Pass
+85,179,1,Technical,2025-05-28,49.7,Fail
+86,185,1,Technical,2025-02-24,64.2,Fail
+87,186,1,Technical,2025-03-26,52.5,Fail
+88,188,1,Technical,2025-03-10,54.4,Pass
+89,188,2,HR and Culture,2025-03-17,70.6,Pass
+90,189,1,Technical,2025-07-12,88.9,Pass
+91,189,2,HR and Culture,2025-07-19,82.0,Pass
+92,191,1,Technical,2025-04-10,66.7,Fail
+93,192,1,Technical,2025-02-10,49.9,Pass
+94,192,2,HR and Culture,2025-02-17,72.7,Pass
+95,196,1,Technical,2025-05-26,84.0,Pass
+96,196,2,HR and Culture,2025-06-02,75.3,Pass
+97,199,1,Technical,2025-05-23,69.2,Fail
+98,201,1,Technical,2025-04-11,66.0,Fail
+99,204,1,Technical,2025-03-16,55.4,Fail
+100,205,1,Technical,2025-02-11,70.8,Pass
+101,207,1,Technical,2025-05-08,76.3,Pass
+102,210,1,Technical,2025-05-21,85.8,Pass
+103,210,2,HR and Culture,2025-05-28,84.6,Pass
+104,214,1,Technical,2025-05-01,65.9,Pass
+105,214,2,HR and Culture,2025-05-08,79.6,Pass
+106,215,1,Technical,2025-05-23,63.8,Fail
+107,216,1,Technical,2025-02-18,51.0,Fail
+108,219,1,Technical,2025-06-14,57.6,Fail
+109,221,1,Technical,2025-02-13,54.4,Fail
+110,223,1,Technical,2025-05-22,73.3,Pass
+111,225,1,Technical,2025-05-23,50.7,Fail
+112,226,1,Technical,2025-07-12,63.1,Fail
+113,227,1,Technical,2025-02-17,60.5,Fail
+114,228,1,Technical,2025-05-21,83.4,Pass
+115,228,2,HR and Culture,2025-05-28,77.5,Pass
+116,235,1,Technical,2025-05-14,52.0,Fail
+117,236,1,Technical,2025-03-24,80.5,Pass
+118,236,2,HR and Culture,2025-03-31,97.6,Pass
+119,237,1,Technical,2025-02-27,65.7,Fail
+120,243,1,Technical,2025-02-17,88.5,Pass
+121,243,2,HR and Culture,2025-02-24,61.8,Pass
+122,246,1,Technical,2025-02-24,79.2,Pass
+123,247,1,Technical,2025-05-26,73.1,Pass
+124,250,1,Technical,2025-02-22,59.9,Fail
+125,251,1,Technical,2025-05-13,85.1,Pass
+126,251,2,HR and Culture,2025-05-20,95.5,Pass
+127,252,1,Technical,2025-02-09,77.4,Pass
+128,252,2,HR and Culture,2025-02-16,66.9,Pass
+129,253,1,Technical,2025-03-28,69.3,Fail
+130,259,1,Technical,2025-02-16,58.6,Fail
+131,260,1,Technical,2025-04-03,66.2,Fail
+132,262,1,Technical,2025-04-09,74.8,Pass
+133,262,2,HR and Culture,2025-04-16,62.5,Pass
+134,263,1,Technical,2025-02-25,56.2,Fail
+135,264,1,Technical,2025-06-05,66.3,Fail
+136,266,1,Technical,2025-02-26,49.8,Fail
+137,268,1,Technical,2025-05-28,77.5,Pass
+138,271,1,Technical,2025-05-31,57.5,Pass
+139,271,2,HR and Culture,2025-06-07,69.0,Pass
+140,272,1,Technical,2025-05-28,80.6,Pass
+141,272,2,HR and Culture,2025-06-04,79.9,Pass
+142,275,1,Technical,2025-02-06,86.0,Pass
+143,275,2,HR and Culture,2025-02-13,79.6,Pass
+144,276,1,Technical,2025-02-14,77.3,Pass
+145,279,1,Technical,2025-05-28,56.2,Fail
+146,283,1,Technical,2025-03-24,67.0,Fail
+147,287,1,Technical,2025-03-16,71.3,Pass
+148,287,2,HR and Culture,2025-03-23,89.7,Pass
+149,290,1,Technical,2025-05-25,59.0,Fail
+150,293,1,Technical,2025-04-18,75.0,Pass
+151,293,2,HR and Culture,2025-04-25,77.9,Pass
+152,296,1,Technical,2025-04-02,51.8,Fail
+153,300,1,Technical,2025-03-11,74.2,Pass
+154,300,2,HR and Culture,2025-03-18,61.9,Pass
+155,303,1,Technical,2025-02-15,74.9,Pass
+156,303,2,HR and Culture,2025-02-22,77.3,Pass
+157,304,1,Technical,2025-05-29,67.5,Fail
+158,308,1,Technical,2025-06-01,73.8,Pass
+159,308,2,HR and Culture,2025-06-08,65.0,Pass
+160,310,1,Technical,2025-03-24,60.6,Fail
+161,311,1,Technical,2025-03-30,55.0,Fail
+162,315,1,Technical,2025-04-03,68.8,Pass
+163,315,2,HR and Culture,2025-04-10,95.4,Pass
+164,316,1,Technical,2025-05-23,75.6,Pass
+165,316,2,HR and Culture,2025-05-30,98.0,Pass
+166,318,1,Technical,2025-02-09,74.4,Pass
+167,318,2,HR and Culture,2025-02-16,67.3,Pass
+168,319,1,Technical,2025-02-14,58.5,Fail
+169,320,1,Technical,2025-02-21,52.7,Fail
+170,321,1,Technical,2025-07-11,68.6,Fail
+171,324,1,Technical,2025-05-19,55.9,Fail
+172,326,1,Technical,2025-05-31,61.4,Fail
+173,327,1,Technical,2025-03-20,86.2,Pass
+174,327,2,HR and Culture,2025-03-27,77.1,Pass
+175,328,1,Technical,2025-05-28,63.1,Fail
+176,329,1,Technical,2025-05-28,55.2,Fail
+177,331,1,Technical,2025-04-04,70.5,Pass
+178,335,1,Technical,2025-05-03,78.1,Pass
+179,336,1,Technical,2025-04-08,59.1,Fail
+180,338,1,Technical,2025-04-09,51.5,Fail
+181,339,1,Technical,2025-03-01,62.5,Fail
+182,340,1,Technical,2025-02-20,78.7,Pass
+183,343,1,Technical,2025-04-28,59.3,Fail
+184,344,1,Technical,2025-05-25,76.0,Pass
+185,345,1,Technical,2025-04-03,52.6,Fail
+186,348,1,Technical,2025-06-06,76.6,Pass
+187,348,2,HR and Culture,2025-06-13,88.7,Pass
+188,349,1,Technical,2025-03-21,64.1,Fail
+189,357,1,Technical,2025-05-27,56.9,Fail
+190,363,1,Technical,2025-02-18,78.9,Pass
+191,364,1,Technical,2025-02-28,78.0,Pass
+192,364,2,HR and Culture,2025-03-07,79.6,Pass
+193,369,1,Technical,2025-06-04,75.9,Pass
+194,369,2,HR and Culture,2025-06-11,69.9,Pass
+195,372,1,Technical,2025-02-23,63.3,Fail
+196,373,1,Technical,2025-04-24,74.3,Pass
+197,375,1,Technical,2025-01-30,60.1,Fail
+198,381,1,Technical,2025-03-23,90.8,Pass
+199,381,2,HR and Culture,2025-03-30,69.7,Pass
+200,383,1,Technical,2025-02-17,63.5,Fail
+201,387,1,Technical,2025-02-21,84.9,Pass
+202,387,2,HR and Culture,2025-02-28,83.5,Pass
+203,390,1,Technical,2025-01-25,59.5,Fail
+204,391,1,Technical,2025-05-15,42.0,Fail
+205,394,1,Technical,2025-04-21,59.8,Fail
+206,395,1,Technical,2025-06-04,87.3,Pass
+207,395,2,HR and Culture,2025-06-11,84.7,Pass
+208,396,1,Technical,2025-03-10,60.3,Fail
+209,397,1,Technical,2025-04-14,92.0,Pass
+210,397,2,HR and Culture,2025-04-21,67.6,Pass
+211,400,1,Technical,2025-02-12,82.5,Pass
+212,400,2,HR and Culture,2025-02-19,95.0,Pass
+213,402,1,Technical,2025-02-27,77.2,Pass
+214,404,1,Technical,2025-04-13,81.1,Pass
+215,409,1,Technical,2025-05-29,48.9,Fail
+216,410,1,Technical,2025-04-16,57.3,Fail
+217,411,1,Technical,2025-03-02,79.9,Pass
+218,411,2,HR and Culture,2025-03-09,86.5,Pass
+219,413,1,Technical,2025-05-02,66.4,Pass
+220,413,2,HR and Culture,2025-05-09,81.3,Pass
+221,417,1,Technical,2025-05-07,53.0,Fail
+222,419,1,Technical,2025-05-24,60.3,Fail
+223,420,1,Technical,2025-02-18,45.2,Fail
+224,422,1,Technical,2025-05-16,84.6,Pass
+225,422,2,HR and Culture,2025-05-23,59.1,Pass
+226,426,1,Technical,2025-05-30,65.2,Fail
+227,427,1,Technical,2025-02-19,48.7,Fail
+228,432,1,Technical,2025-02-26,53.2,Fail
+229,433,1,Technical,2025-07-07,67.2,Fail
+230,441,1,Technical,2025-04-07,64.3,Fail
+231,444,1,Technical,2025-03-14,48.7,Fail
+232,445,1,Technical,2025-05-27,54.1,Pass
+233,445,2,HR and Culture,2025-06-03,80.1,Pass
+234,446,1,Technical,2025-02-23,80.2,Pass
+235,446,2,HR and Culture,2025-03-02,63.0,Pass
+236,448,1,Technical,2025-05-21,96.1,Pass
+237,448,2,HR and Culture,2025-05-28,86.9,Pass
+238,453,1,Technical,2025-02-23,46.2,Fail
+239,455,1,Technical,2025-02-23,70.1,Pass
+240,456,1,Technical,2025-05-23,47.5,Fail
+241,457,1,Technical,2025-04-14,76.8,Pass
+242,458,1,Technical,2025-01-25,95.1,Pass
+243,458,2,HR and Culture,2025-02-01,95.9,Pass
+244,459,1,Technical,2025-05-14,65.4,Pass
+245,459,2,HR and Culture,2025-05-21,74.6,Pass
+246,465,1,Technical,2025-04-10,48.2,Fail
+247,469,1,Technical,2025-05-13,68.3,Pass
+248,469,2,HR and Culture,2025-05-20,98.0,Pass
+249,472,1,Technical,2025-03-23,62.5,Fail
+250,474,1,Technical,2025-02-15,58.7,Fail
+251,476,1,Technical,2025-03-31,59.3,Fail
+252,477,1,Technical,2025-06-01,69.7,Pass
+253,477,2,HR and Culture,2025-06-08,72.6,Pass
+254,479,1,Technical,2025-02-15,66.4,Fail
+255,484,1,Technical,2025-05-18,58.0,Fail
+256,488,1,Technical,2025-02-21,57.3,Fail
+257,489,1,Technical,2025-02-05,59.2,Fail
+258,490,1,Technical,2025-02-14,79.1,Pass
+259,490,2,HR and Culture,2025-02-21,76.4,Pass
+260,491,1,Technical,2025-05-05,56.1,Fail
+261,494,1,Technical,2025-04-05,56.8,Fail
+262,495,1,Technical,2025-02-26,65.7,Fail
+263,497,1,Technical,2025-04-13,74.6,Pass
+264,497,2,HR and Culture,2025-04-20,76.0,Pass
+265,498,1,Technical,2025-03-28,71.3,Pass
+266,498,2,HR and Culture,2025-04-04,77.2,Pass
+267,499,1,Technical,2025-04-01,83.4,Pass
+268,499,2,HR and Culture,2025-04-08,59.8,Pass

@@ -1,0 +1,29 @@
+job_id,employer_id,job_title,employment_type,min_cgpa,posted_date,closing_date,openings
+1,1,Embedded Systems Trainee 1,Contract,3.06,2025-05-16,2025-06-18,4
+2,1,Research Assistant 2,Graduate Role,3.12,2025-02-02,2025-03-07,2
+3,12,Cloud Support Associate 3,Internship,2.66,2025-02-07,2025-03-16,5
+4,6,Junior Data Analyst 4,Internship,2.46,2025-02-04,2025-03-01,5
+5,8,Research Assistant 5,Graduate Role,3.29,2025-05-07,2025-06-07,2
+6,8,Operations Analyst 6,Internship,2.46,2025-03-12,2025-04-21,1
+7,7,Quality Analyst 7,Graduate Role,3.08,2025-05-05,2025-06-08,4
+8,7,Business Intelligence Intern 8,Contract,2.94,2025-01-30,2025-03-02,4
+9,7,Operations Analyst 9,Contract,2.67,2025-04-17,2025-05-09,4
+10,5,Business Intelligence Intern 10,Internship,2.69,2025-02-03,2025-03-15,3
+11,1,Graduate Software Engineer 11,Internship,2.9,2025-03-03,2025-04-15,4
+12,8,Operations Analyst 12,Contract,3.12,2025-04-29,2025-05-29,4
+13,8,Project Coordinator 13,Internship,3.22,2025-03-27,2025-05-06,5
+14,12,Junior Data Analyst 14,Graduate Role,2.65,2025-03-01,2025-04-10,5
+15,4,MIS Reporting Associate 15,Graduate Role,3.15,2025-02-06,2025-03-06,5
+16,10,Research Assistant 16,Internship,3.06,2025-03-24,2025-05-05,1
+17,3,Cloud Support Associate 17,Contract,2.97,2025-06-20,2025-08-03,4
+18,6,Research Assistant 18,Graduate Role,2.88,2025-03-22,2025-05-05,1
+19,7,Cloud Support Associate 19,Internship,2.56,2025-04-23,2025-05-16,3
+20,1,Project Coordinator 20,Graduate Role,3.23,2025-05-09,2025-06-02,1
+21,12,Backend Engineering Intern 21,Internship,2.9,2025-05-21,2025-07-02,4
+22,5,MIS Reporting Associate 22,Internship,2.84,2025-01-17,2025-02-27,1
+23,12,MIS Reporting Associate 23,Graduate Role,3.16,2025-05-12,2025-06-24,1
+24,4,MIS Reporting Associate 24,Graduate Role,2.44,2025-03-31,2025-05-14,4
+25,11,MIS Reporting Associate 25,Internship,2.57,2025-05-06,2025-05-27,1
+26,12,Graduate Software Engineer 26,Graduate Role,2.55,2025-02-01,2025-03-01,4
+27,4,Junior Design Engineer 27,Graduate Role,3.26,2025-06-04,2025-07-05,1
+28,4,Operations Analyst 28,Graduate Role,2.56,2025-03-24,2025-04-20,2

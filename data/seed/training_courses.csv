@@ -1,0 +1,9 @@
+course_id,course_title,provider,start_date,end_date,skill_id
+1,Applied SQL,SkillBridge Academy,2025-02-01,2025-02-28,2
+2,Python for Analytics,SkillBridge Academy,2025-03-08,2025-04-04,1
+3,Power BI Reporting,SkillBridge Academy,2025-04-12,2025-05-09,4
+4,Professional Communication,SkillBridge Academy,2025-05-17,2025-06-13,12
+5,Git and Collaboration,SkillBridge Academy,2025-06-21,2025-07-18,9
+6,Cloud Fundamentals,SkillBridge Academy,2025-07-26,2025-08-22,19
+7,Project Management Essentials,SkillBridge Academy,2025-08-30,2025-09-26,11
+8,Excel for Business,SkillBridge Academy,2025-10-04,2025-10-31,3
